@@ -87,5 +87,3 @@ An ASP.NET Core Web API has been created and should have the following requireme
 - Updating Characters in Movies.
 - Updating Franchises in Movies.
 
-## Creators
-Pavel Ibrahim & Johann Braaten
